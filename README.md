@@ -24,13 +24,14 @@
 
 
 
-## 优势与特性
+
+## 优势
 - [√] 三叉树分类、结构清晰、分类清晰。
 - [√] 颜值与简约并存，不再是杀马特时代。
-- [√] 支持中文、英文、GitHub浏览，目前唯一一个支持的导航。
+- [√] 支持中文、英文、GitHub浏览，创新。
 - [√] 支持页面定位、滚动定位。
-- [√] 支持移动端。
-
+- [√] 支持移动端浏览。
+- [√] 支持搜索查询。
 
 
 ## 贡献
@@ -50,9 +51,22 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 ---
 
 
+## Build Setup
+``` bash
+# install dependencies
+npm install
+
+# start
+npm start
+
+# build for production with minification
+npm run build
+```
 
 
-## 支持作者
+
+
+## 支持开源
 <img src="https://raw.githubusercontent.com/xjh22222228/statics/master/images/2018/32.png" alt="支持" width="500" />
 
 
